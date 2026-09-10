@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**TEDC2L** is a graph-based deep learning framework designed to infer cell-lineage-specific Gene Regulatory Networks (GRNs) and identify driver regulators. By incorporating multimodal enhancements (such as gene text embeddings, graph-text contrastive learning, and edge-level gating mechanisms) alongside advanced control principles (MDS, MFVS, MCES, and Energy-Optimal control), TEDC2L provides a robust pipeline for cell lineage analysis.
+**TEDC2L** is a graph-based deep learning framework designed to infer cell-lineage-specific Gene Regulatory Networks (GRNs) and identify driver regulators. By incorporating multimodal enhancements (such as gene text embeddings, graph-text contrastive learning, and edge-level gating mechanisms) alongside advanced control principles (MFVS and Energy-Optimal control), TEDC2L provides a robust pipeline for cell lineage analysis.
 
 ---
 
