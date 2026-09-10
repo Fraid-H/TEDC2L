@@ -10,7 +10,7 @@
 
 ## Overview
 
-![TEDC2L Architecture](docs/overview.png) *(Optional: Place your framework workflow figure here)*
+![TEDC2L Architecture](Fig.1/Figure 1.jpg) *(Optional: Place your framework workflow figure here)*
 
 - **Text-Embedding Enhanced GRN Inference:** Seamlessly integrates gene text embeddings via cosine similarity, KNN network augmentation, and graph-text contrastive alignment loss.
 - **Edge-Level Gating Mechanism:** Uses a flexible gating parameter ($\\beta$) to balance node-level differential expression priors and edge-level text similarities.
