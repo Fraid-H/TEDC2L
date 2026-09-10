@@ -110,7 +110,7 @@ After execution, the following result files will be generated in your specified 
 | `driver_regulators.csv` | Combined driver regulator rankings and identified driver flags. |
 | `gene_embs.csv` | Learned low-dimensional gene embeddings. |
 | `AUCell_mtx.csv` | RGM activity score matrix across cells. |
-| `MDS_drivers.csv`, `MFVS_drivers.csv`, ... | Detailed driver lists per control method (MDS, MFVS, MCES, Energy-optimal). |
+| `MFVS_drivers.csv`, ... | Detailed driver lists per control method ( MFVS, Energy-optimal). |
 | `method_comparison_summary.csv` | Experiment parameters and driver overlap summaries. |
 | `experimental_config.csv` | Logged parameters and execution settings. |
 
