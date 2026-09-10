@@ -1,0 +1,45 @@
+TEDC2L Research-Only Non-Commercial License
+Version 1.0, September 2026
+
+Copyright (c) 2026 TEDC2L authors
+
+This license applies only to the TEDC2L source code and documentation files
+identified by the copyright holder as covered by this license (the
+"Software"). It does not grant rights to third-party datasets, third-party
+software, the manuscript, figures, logos, or other materials that may be
+distributed with the Software under separate terms.
+
+Permission is granted, free of charge, to any person obtaining a copy of the
+Software, to use, copy, modify, and redistribute the Software, subject to the
+following conditions:
+
+1. The Software may be used only for non-commercial research, academic,
+   educational, or personal purposes.
+
+2. Commercial use is not permitted. You may not use the Software or a
+   derivative work in a commercial product, commercial service, paid data
+   analysis, paid consulting activity, clinical service offered for payment,
+   or any other activity whose primary purpose is commercial advantage or
+   monetary compensation.
+
+3. Any copy or substantial portion of the Software must include this license
+   and the original copyright notice.
+
+4. Any modified version must clearly state that it has been modified and must
+   preserve this license and the original copyright notice.
+
+5. Neither the name of the TEDC2L authors nor the names of contributors may be
+   used to endorse or promote a product or service without prior written
+   permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+This license is a custom license for the TEDC2L project. It is not an
+OSI-approved open-source license. If you need commercial use or a different
+license, contact the copyright holder for separate written permission.
