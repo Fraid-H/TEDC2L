@@ -13,10 +13,8 @@
 - **Text-Embedding Enhanced GRN Inference:** Seamlessly integrates gene text embeddings via cosine similarity, KNN network augmentation, and graph-text contrastive alignment loss.
 - **Edge-Level Gating Mechanism:** Uses a flexible gating parameter ($\beta$) to balance node-level differential expression priors and edge-level text similarities.
 - **Enhanced Driver Control Identifications:** Supports four complementary network control methods:
-  1. **MDS** (Minimum Dominating Set)
-  2. **MFVS** (Minimum Feedback Vertex Set)
-  3. **MCES** (Minimum Control Edge Set)
-  4. **Energy-Optimal Control**
+  1. **MFVS** (Minimum Feedback Vertex Set)
+  2. **Energy-Optimal Control**
 - **Regulon-like Gene Modules (RGMs):** Evaluates downstream cell-level module activity profiles using `AUCell` scoring.
 
 ---
